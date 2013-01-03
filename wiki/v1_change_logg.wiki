@@ -3,4 +3,4 @@
 This page contains a description of the additions and changes made by HobbyKing from er9x 762 and tgy9x 1.1
  
 || *Files* || *Change* || *Type* ||
-||tst.xcf s9xsplash.lbm s9xsplash.xbm|| Exchanged original starts creen with the text er9x to one tat says Turnigy 9XR||Cosmetic||
+||tst.xcf s9xsplash.lbm s9xsplash.xbm|| Changed start screen text from er9x to Turnigy 9XR||Cosmetic||
