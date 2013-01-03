@@ -13,7 +13,7 @@ The functional types are:
  
 || *Files* || *Change* || *Type* ||
 || tst.xcf s9xsplash.lbm s9xsplash.xbm || Changed start screen text from er9x to Turnigy 9XR || Cosmetic ||
-|| drivers.cpp || No functional change at all || --- ||
+|| drivers.cpp templates.h || No functional change at all || --- ||
 || er9x.cpp || Changed abbreviation of Volts from v to V || Cosmetic ||
 || er9x.cpp || Hard coded trim step size to 1 || Reduction ||
 || er9x.cpp || Hard coded mid channel alert sound to be same as low battery sound || Reduction ||
@@ -31,4 +31,3 @@ The functional types are:
 || stamp_er9x.h || This file is automatically created by the build process and contains a date stamp, version information and information of code repository version. HobbyKing has hard-coded the information || Reduction ||
 || templates.cpp || Removed "Sticky T-Cut" template  || Reduction ||
 || templates.cpp || Hard coded all templates to use TAER channel order || Reduction ||
-
