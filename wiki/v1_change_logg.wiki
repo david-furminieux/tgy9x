@@ -1,10 +1,7 @@
 #summary All the changes made by HobbyKing in v1.1 .
 
 = Introduction =
-
-Intfoduction
-
-
+HobbyKing Turnigy 9XR v1.1 change log
 = Details =
 tst.xcf
 s9xsplash.lbm
