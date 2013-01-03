@@ -6,3 +6,5 @@ This page contains a description of the additions and changes made by HobbyKing 
 || tst.xcf s9xsplash.lbm s9xsplash.xbm || Changed start screen text from er9x to Turnigy 9XR || Cosmetic ||
 || drivers.cpp || No functional change at all || --- ||
 || er9x.cpp || Changed abbreviation of Volts from v to V || Cosmetic ||
+|| || Hard coded trim step size to 1 || Reduction ||
+|| || Changed mid channel alert sound || Cosmetic ||
