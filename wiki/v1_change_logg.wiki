@@ -32,4 +32,3 @@ The functional types are:
 || templates.cpp || Removed "Sticky T-Cut" template  || Reduction ||
 || templates.cpp || Hard coded all templates to use TAER channel order || Reduction ||
 
-|| || || ||
