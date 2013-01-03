@@ -1,14 +1,5 @@
 #summary All the changes made by HobbyKing in v1.1 .
-
-= Introduction =
-HobbyKing Turnigy 9XR v1.1 change log
-= Details =
-tst.xcf
-s9xsplash.lbm
-s9xsplash.xbm
-  Exchanged original 
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= HobbyKing Turnigy 9XR v1.1 change log =
+This page contains a description of the additions and changes made by HobbyKing from er9x 762 and tgy9x 1.1
+ 
+||tst.xcf s9xsplash.lbm s9xsplash.xbm|| Exchanged original starts creen with the text er9x to one tat says Turnigy 9XR||Cosmetic||
