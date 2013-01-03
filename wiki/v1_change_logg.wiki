@@ -11,6 +11,10 @@ This page contains a description of the additions and changes made by HobbyKing 
 || er9x.cpp || Reduced beep frequency when trying to set trim outside of max limits (125) || Cosmetic ||
 || er9x.h menus.cpp || Added new page for channel reversal || Addition ||
 || english.lang || Changed template name from "Simple 4-CH" to "Simple 6-CH" || Cosmetic ||
-|| menus.cpp || Added new page to for channel reversing. || Addition ||
 || menus.cpp || Removed version page. || Reduction ||
-|| menus.cpp || Changed name of normal channel reverasl state from "---" to "NOR" || Cosmetic ||
+|| menus.cpp || Changed name of normal channel reversal state from "---" to "NOR" || Cosmetic ||
+|| menus.cpp || Changed default limits || Cosmetic ||
+|| menus.cpp || Added stick mode to template call. This parameter is however never used || --- ||
+|| menus.cpp || Changed default limits || Cosmetic ||
+|| menus.cpp || Removed display of numeric channel values || Reduction ||
+|| pers.cpp || Changed default configuration values for potscroll (-> off), Beepervalue (-> 2), LightAutoOn (-> On) || Cosmetic ||
