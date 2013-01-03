@@ -6,11 +6,11 @@ This page contains a description of the additions and changes made by HobbyKing 
 || tst.xcf s9xsplash.lbm s9xsplash.xbm || Changed start screen text from er9x to Turnigy 9XR || Cosmetic ||
 || drivers.cpp || No functional change at all || --- ||
 || er9x.cpp || Changed abbreviation of Volts from v to V || Cosmetic ||
-|| || Hard coded trim step size to 1 || Reduction ||
-|| || Hard coded mid channel alert sound to be same as low battery sound || Reduction ||
-|| || Reduced beep frequency when trying to set trim outside of max limits (125) || Cosmetic ||
-|| er9x.h || Added new page for channel reversal || Addition ||
+|| er9x.cpp || Hard coded trim step size to 1 || Reduction ||
+|| er9x.cpp || Hard coded mid channel alert sound to be same as low battery sound || Reduction ||
+|| er9x.cpp || Reduced beep frequency when trying to set trim outside of max limits (125) || Cosmetic ||
+|| er9x.h menus.cpp || Added new page for channel reversal || Addition ||
 || english.lang || Changed template name from "Simple 4-CH" to "Simple 6-CH" || Cosmetic ||
 || menus.cpp || Added new page to for channel reversing. || Addition ||
-|| || Removed version page. || Reduction ||
-|| || Changed name of normal channel reverasl state from "---" to "NOR" || Cosmetic ||
+|| menus.cpp || Removed version page. || Reduction ||
+|| menus.cpp || Changed name of normal channel reverasl state from "---" to "NOR" || Cosmetic ||
