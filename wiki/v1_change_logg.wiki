@@ -7,4 +7,5 @@ This page contains a description of the additions and changes made by HobbyKing 
 || drivers.cpp || No functional change at all || --- ||
 || er9x.cpp || Changed abbreviation of Volts from v to V || Cosmetic ||
 || || Hard coded trim step size to 1 || Reduction ||
-|| || Changed mid channel alert sound || Cosmetic ||
+|| || Hard coded mid channel alert sound to be same as low battery sound || Reduction ||
+|| || Reduced beep frequency when trying to set trim outside of max limits (125) || ||
