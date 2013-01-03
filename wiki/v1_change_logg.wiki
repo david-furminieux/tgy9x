@@ -6,6 +6,8 @@ The functional types are:
 || Addition || Functionality has been added ||
 || Reduction || Functionality has been remeved ||
 || Cosmetic || Only visual appearance or temporary values like default settings have been changed ||
+
+
  
 || *Files* || *Change* || *Type* ||
 || tst.xcf s9xsplash.lbm s9xsplash.xbm || Changed start screen text from er9x to Turnigy 9XR || Cosmetic ||
