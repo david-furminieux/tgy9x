@@ -10,4 +10,7 @@ This page contains a description of the additions and changes made by HobbyKing 
 || || Hard coded mid channel alert sound to be same as low battery sound || Reduction ||
 || || Reduced beep frequency when trying to set trim outside of max limits (125) || Cosmetic ||
 || er9x.h || Added new page for channel reversal || Addition ||
-|| english.lang || Channel name of template from "Simple 4-CH" to "Simple 6-CH" || Cosmetic ||
+|| english.lang || Changed template name from "Simple 4-CH" to "Simple 6-CH" || Cosmetic ||
+|| menus.cpp || Added new page to for channel reversing. || Addition ||
+|| || Removed version page. || Reduction ||
+|| || Changed name of normal channel reverasl state from "---" to "NOR" || Cosmetic ||
