@@ -8,4 +8,6 @@ This page contains a description of the additions and changes made by HobbyKing 
 || er9x.cpp || Changed abbreviation of Volts from v to V || Cosmetic ||
 || || Hard coded trim step size to 1 || Reduction ||
 || || Hard coded mid channel alert sound to be same as low battery sound || Reduction ||
-|| || Reduced beep frequency when trying to set trim outside of max limits (125) || ||
+|| || Reduced beep frequency when trying to set trim outside of max limits (125) || Cosmetic ||
+|| er9x.h || Added new page for channel reversal || Addition ||
+|| english.lang || Channel name of template from "Simple 4-CH" to "Simple 6-CH" || Cosmetic ||
