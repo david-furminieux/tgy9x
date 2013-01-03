@@ -2,14 +2,6 @@
 == !HobbyKing Turnigy 9XR v1.1 change log ==
 This page contains a description of the additions and changes made by HobbyKing from er9x 762 and tgy9x 1.1
 
-The functional types are:
-
-|| --- || No functional change at all ||
-|| Addition || Functionality has been added ||
-|| Reduction || Functionality has been remeved ||
-|| Cosmetic || Only visual appearance or temporary values like default settings have been changed ||
-
-
  
 || *Files* || *Change* || *Type* ||
 || tst.xcf s9xsplash.lbm s9xsplash.xbm || Changed start screen text from er9x to Turnigy 9XR || Cosmetic ||
@@ -31,3 +23,12 @@ The functional types are:
 || stamp_er9x.h || This file is automatically created by the build process and contains a date stamp, version information and information of code repository version. HobbyKing has hard-coded the information || Reduction ||
 || templates.cpp || Removed "Sticky T-Cut" template  || Reduction ||
 || templates.cpp || Hard coded all templates to use TAER channel order || Reduction ||
+
+
+The functional types are:
+
+|| --- || No functional change at all ||
+|| Addition || Functionality has been added ||
+|| Reduction || Functionality has been remeved ||
+|| Cosmetic || Only visual appearance or temporary values like default settings have been changed ||
+
