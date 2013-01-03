@@ -20,7 +20,7 @@ This page contains a description of the additions and changes made by HobbyKing 
 || menus.cpp || Removed display of numeric channel values || Reduction ||
 || pers.cpp || Changed default configuration values for potscroll (-> off), Beepervalue (-> 2), !LightAutoOn (-> On) || Cosmetic ||
 || pers.cpp || Changed default name of owner from "ME" to "  " || Cosmetic ||
-|| stamp_er9x.h || This file is automatically created by the build process and contains a date stamp, version information and information of code repository version. HobbyKing has hard-coded the information || Reduction ||
+|| stamp_er9x.h || This file is automatically created by the build process and contains a date stamp, version information and information of code repository version. !HobbyKing has hard-coded the information, which kind of removes the idea || Reduction ||
 || templates.cpp || Removed "Sticky T-Cut" template  || Reduction ||
 || templates.cpp || Hard coded all templates to use TAER channel order || Reduction ||
 
@@ -31,4 +31,3 @@ The functional types are:
 || Addition || Functionality has been added ||
 || Reduction || Functionality has been remeved ||
 || Cosmetic || Only visual appearance or temporary values like default settings have been changed ||
-
