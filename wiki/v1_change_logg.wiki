@@ -1,6 +1,7 @@
 #summary Changes made by HobbyKing in v1.1 .
 == !HobbyKing Turnigy 9XR v1.1 change log ==
 This page contains a description of the additions and changes made by HobbyKing from er9x 762 and tgy9x 1.1
+It would have been easier if they published this list by themselves, but they have chosen not to.
 
  
 || *Files* || *Change* || *Type* ||
