@@ -3,6 +3,6 @@
 This page contains a description of the additions and changes made by HobbyKing from er9x 762 and tgy9x 1.1
  
 || *Files* || *Change* || *Type* ||
-||tst.xcf s9xsplash.lbm s9xsplash.xbm|| Changed start screen text from er9x to Turnigy 9XR||Cosmetic||
-||drivers.cpp||No functional change at all||---|
-||er9x.cpp||changed abbreviation of Volts from v to V||Cosmetic||
+|| tst.xcf s9xsplash.lbm s9xsplash.xbm || Changed start screen text from er9x to Turnigy 9XR || Cosmetic ||
+|| drivers.cpp || No functional change at all || --- ||
+|| er9x.cpp || Changed abbreviation of Volts from v to V || Cosmetic ||
