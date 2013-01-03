@@ -10,11 +10,17 @@ This page contains a description of the additions and changes made by HobbyKing 
 || er9x.cpp || Hard coded mid channel alert sound to be same as low battery sound || Reduction ||
 || er9x.cpp || Reduced beep frequency when trying to set trim outside of max limits (125) || Cosmetic ||
 || er9x.h menus.cpp || Added new page for channel reversal || Addition ||
-|| english.lang || Changed template name from "Simple 4-CH" to "Simple 6-CH" || Cosmetic ||
+|| english.lang templates.cpp || Changed template name from "Simple 4-CH" to "Simple 6-CH" || Cosmetic ||
 || menus.cpp || Removed version page. || Reduction ||
 || menus.cpp || Changed name of normal channel reversal state from "---" to "NOR" || Cosmetic ||
 || menus.cpp || Changed default limits || Cosmetic ||
 || menus.cpp || Added stick mode to template call. This parameter is however never used || --- ||
 || menus.cpp || Changed default limits || Cosmetic ||
 || menus.cpp || Removed display of numeric channel values || Reduction ||
-|| pers.cpp || Changed default configuration values for potscroll (-> off), Beepervalue (-> 2), LightAutoOn (-> On) || Cosmetic ||
+|| pers.cpp || Changed default configuration values for potscroll (-> off), Beepervalue (-> 2), !LightAutoOn (-> On) || Cosmetic ||
+|| pers.cpp || Changed default name of owner from "ME" to "  " || Cosmetic ||
+|| stamp_er9x.h || This file is automatically created by the build process and contains a date stamp, version information and information of code repository version. HobbyKing has hard-coded the information || Reduction ||
+|| templates.cpp || Removed "Sticky T-Cut" template  || Reduction ||
+|| templates.cpp || Hard coded all templates to use TAER channel order || Reduction ||
+
+|| || || ||
